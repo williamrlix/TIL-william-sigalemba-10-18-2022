@@ -17,3 +17,14 @@ and today i already finish my task, but i have a little bit problem about the en
 i need to be more patience
 
 tomorow i plan to fix the code and start to build the body of website
+
+10/20/2022
+today i learn how to made a form with backend using python, and then i learn how to made search button
+
+we have a little bit problem with the connetion and fix it together
+
+i hope my next time is good as now
+
+tomorow i will attend at tea time with miss Eunso
+
+
